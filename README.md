@@ -27,6 +27,6 @@ The predictive model performance was evaluated using the following metrics:
 These metrics indicate a high level of accuracy in the model's predictions, with an R² value close to 1 showing that the model explains a significant portion of the variance in the billing data.
 
 ### Technologies Used
-Python: The primary programming language used.
-Pandas & NumPy: For data manipulation and numerical calculations.
-Scikit-Learn: For implementing the regression models.
+* Python: The primary programming language used.
+* Pandas & NumPy: For data manipulation and numerical calculations.
+* Scikit-Learn: For implementing the regression models.
