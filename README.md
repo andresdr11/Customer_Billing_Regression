@@ -5,7 +5,7 @@ This repository contains a project that aims to predict the billing of various c
 The primary goal of this project was to use statistical analysis and machine learning to predict the "TotalFacturado" (Total Billed) for clients based on historical data. The project follows the CRISP-DM methodology, ensuring a structured approach to data mining.
 
 ### Methodology
-* CRISP-DM Framework
+CRISP-DM Framework
 The project adheres to the CRISP-DM (Cross Industry Standard Process for Data Mining) methodology, which encompasses the following phases:
 
 * Business Understanding: Define the objectives and requirements from a business perspective.
